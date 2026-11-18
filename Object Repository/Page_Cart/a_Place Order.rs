@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Place Order</name>
+   <tag></tag>
+   <elementGuidId>e0b799fb-eca8-4acc-a834-8dbf729af3d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-default.check_out</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='cart_items']/div/div[7]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fa308a55-71da-4e58-a0d4-af3b6b476967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/payment</value>
+      <webElementGuid>7fde01f4-45dd-46b4-959b-cd5420610931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default check_out</value>
+      <webElementGuid>11ab2cdb-8271-4876-b8c2-602e20bd4e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Place Order</value>
+      <webElementGuid>541df5ff-3577-4ba7-8a13-578b1a8ceb0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_items&quot;)/div[@class=&quot;container&quot;]/div[7]/a[@class=&quot;btn btn-default check_out&quot;]</value>
+      <webElementGuid>5ebd1602-a39d-4a3e-8ec1-f3ace26b7a30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='cart_items']/div/div[7]/a</value>
+      <webElementGuid>422299e3-c276-4083-801e-5614c2ec3049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Place Order')]</value>
+      <webElementGuid>b38c46eb-35f2-4b16-a414-30d4dcccba42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you would like to add a comment about your order, please write it in the field below.'])[1]/following::a[1]</value>
+      <webElementGuid>2c15586a-4ed6-49bd-8f22-64564d0e03c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Amount'])[1]/following::a[1]</value>
+      <webElementGuid>f9b4c3cd-94c2-4711-a248-a3479f80984e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have been successfully subscribed!'])[1]/preceding::a[1]</value>
+      <webElementGuid>a6252f9c-00b4-4e2c-974e-2c3e80a34ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subscription'])[1]/preceding::a[1]</value>
+      <webElementGuid>349651af-f170-442b-97a2-9d81f5986119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Place Order']/parent::*</value>
+      <webElementGuid>f5a0339b-0249-484a-a9dc-f44d6a6957fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/payment')]</value>
+      <webElementGuid>dd1eccce-4536-4531-b9cd-58839dd5f7c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a</value>
+      <webElementGuid>86b574c1-6af1-4893-9f6f-c5941d9a696d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/payment' and (text() = 'Place Order' or . = 'Place Order')]</value>
+      <webElementGuid>0989b47e-2441-4256-82e3-bde7d098f2d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

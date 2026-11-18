@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VC002-View_Cart_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c129060-401a-460d-b878-60a2cc40cf38</testCaseGuid>
+</TestCaseEntity>

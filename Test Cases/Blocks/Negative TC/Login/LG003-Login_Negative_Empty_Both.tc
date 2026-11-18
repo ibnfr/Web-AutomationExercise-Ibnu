@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG003-Login_Negative_Empty_Both</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88004f01-7896-4297-a0d0-0f62ca36eb6f</testCaseGuid>
+</TestCaseEntity>

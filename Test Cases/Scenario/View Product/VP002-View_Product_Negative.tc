@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VP002-View_Product_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4091c40c-c77a-47f4-a3dd-c15dc5910837</testCaseGuid>
+</TestCaseEntity>

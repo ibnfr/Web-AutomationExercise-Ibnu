@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC001-Add_to_Cart_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d13517f-9e56-436a-82fe-def991743318</testCaseGuid>
+</TestCaseEntity>

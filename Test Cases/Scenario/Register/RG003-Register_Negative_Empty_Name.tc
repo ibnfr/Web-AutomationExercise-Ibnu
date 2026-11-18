@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG003-Register_Negative_Empty_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74d1cf39-0949-4daa-9b1d-a60485c464cd</testCaseGuid>
+</TestCaseEntity>

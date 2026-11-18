@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>VP001-View_Product_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e8ace938-53aa-4e98-a98d-d0a4ab4aa74f</testCaseGuid>
+</TestCaseEntity>

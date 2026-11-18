@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO001-Checkout_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ec5952b-1a16-4d68-beeb-0c1d8b5cfcd0</testCaseGuid>
+</TestCaseEntity>

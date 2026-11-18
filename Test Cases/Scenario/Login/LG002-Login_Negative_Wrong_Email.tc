@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG002-Login_Negative_Wrong_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1fd1d44d-c553-4f7a-963b-012d3193eff5</testCaseGuid>
+</TestCaseEntity>

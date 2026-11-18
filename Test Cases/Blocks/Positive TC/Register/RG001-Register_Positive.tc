@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG001-Register_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae8559b5-1b7c-4cb7-96f0-9a97723515c0</testCaseGuid>
+</TestCaseEntity>

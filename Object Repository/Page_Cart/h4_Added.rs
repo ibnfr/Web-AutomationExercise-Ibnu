@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Added</name>
+   <tag></tag>
+   <elementGuidId>5ba72778-bb7f-4f55-a8fb-c11c85e5db89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.modal-title.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartModal']/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>2297137e-9430-48ab-8f1c-35e02f130cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title w-100</value>
+      <webElementGuid>0f77ea9f-5bbb-4265-8625-39c173ab51fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Added!</value>
+      <webElementGuid>ef6a5ec2-ef1d-493d-b330-1c44969f9dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModal&quot;)/div[@class=&quot;modal-dialog modal-confirm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/h4[@class=&quot;modal-title w-100&quot;]</value>
+      <webElementGuid>85cd1358-6797-496d-a9bd-fb34e1fd20b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModal']/div/div/div/h4</value>
+      <webElementGuid>83ba496d-2546-4c96-a28d-fe14a9db5eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::h4[1]</value>
+      <webElementGuid>6a344416-01d5-45e7-bf06-a4bbab24ad08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Features Items'])[1]/following::h4[1]</value>
+      <webElementGuid>e1298a21-8ad6-409d-a143-4c271abc4268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/preceding::h4[1]</value>
+      <webElementGuid>9681527f-a670-48d2-92ed-2e4c660a27a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::h4[1]</value>
+      <webElementGuid>27ad8b4c-0e16-4453-9b99-187eddae5b7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Added!']/parent::*</value>
+      <webElementGuid>bb04cb1d-4ceb-46ca-8a64-c5368054582c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/h4</value>
+      <webElementGuid>99543bd2-a2c1-4780-9f9f-4f0c1a878b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Added!' or . = 'Added!')]</value>
+      <webElementGuid>5e9c1b97-4113-4c5e-b220-f9e558d47a28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Blue Top_fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>696f6f47-3048-4721-ac6f-e1d335b67ff6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='product-1']/td[6]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bc4698cb-5c34-44f5-8aea-a8358326b4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>93dca7af-84d7-4b74-ac9b-29ea257d7457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-1&quot;)/td[@class=&quot;cart_delete&quot;]/a[@class=&quot;cart_quantity_delete&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>03140014-57fc-492e-95f2-b7b1d4eeb63c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='product-1']/td[6]/a/i</value>
+      <webElementGuid>acb9a4f3-572a-4f66-8b0f-3405cb390f28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a/i</value>
+      <webElementGuid>2a42f5f4-c424-4a0f-8e02-ef3a899519b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

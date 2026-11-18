@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue Shopping</name>
+   <tag></tag>
+   <elementGuidId>79aa0202-d74a-4d33-bb2c-1f5ec315b510</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.close-modal.btn-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartModal']/div/div/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49438814-b75e-4914-80af-7305be5bb281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success close-modal btn-block</value>
+      <webElementGuid>731441e7-6d47-4c86-a38c-fc3a693dd719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-dismiss</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>fdc42131-30b8-487c-856c-34c9d268765a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue Shopping</value>
+      <webElementGuid>3158d451-fd42-47bf-8a07-00c5027b5554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModal&quot;)/div[@class=&quot;modal-dialog modal-confirm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-footer&quot;]/button[@class=&quot;btn btn-success close-modal btn-block&quot;]</value>
+      <webElementGuid>3addcfd8-7c02-421b-96b5-d4b0af093d7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModal']/div/div/div[3]/button</value>
+      <webElementGuid>f1d8a2b5-9713-49a0-b7cd-dd07fc93e5bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/following::button[1]</value>
+      <webElementGuid>4fb2d97c-798c-4405-82d3-60e672a73b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Added!'])[1]/following::button[1]</value>
+      <webElementGuid>2377e802-391c-4b3c-af17-e9954d43016a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blue Top'])[1]/preceding::button[1]</value>
+      <webElementGuid>32655833-5ed3-46c7-a643-42881f3cae06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rs. 500'])[1]/preceding::button[1]</value>
+      <webElementGuid>b83d2d82-5cd3-4f08-b9dc-631d6da68259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
+      <webElementGuid>140521f6-398b-4118-8a42-5bcbd043e267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7c575299-f7a2-4372-b9b7-131db79ea075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
+      <webElementGuid>21c54adc-b16f-4492-b4cb-42d362724a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[1]/preceding::button[1]</value>
+      <webElementGuid>020079e4-ba53-4449-9631-716697039e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>e036f162-096e-4994-84cc-5ad6a9ec93f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

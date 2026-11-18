@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG002_Register_Negative_Empty_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>39c67b64-9ecb-4de8-8af9-512153697cc0</testCaseGuid>
+</TestCaseEntity>

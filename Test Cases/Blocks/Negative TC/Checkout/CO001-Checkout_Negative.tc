@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CO001-Checkout_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7cc1fb8-dbd8-4f09-a5a7-8bd645091dad</testCaseGuid>
+</TestCaseEntity>

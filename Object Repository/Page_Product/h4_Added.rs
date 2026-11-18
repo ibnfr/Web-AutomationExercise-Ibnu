@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Added</name>
+   <tag></tag>
+   <elementGuidId>d08b08bd-37be-4b4a-8f83-d32535c4e63a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.modal-title.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cartModal']/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>faf2f747-3ad6-40c7-9510-3fa5f7903e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-title w-100</value>
+      <webElementGuid>f728ff24-fd4c-4e4e-8d54-ce4b18717589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Added!</value>
+      <webElementGuid>067bc8a9-126d-435b-81f7-ca179f325dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cartModal&quot;)/div[@class=&quot;modal-dialog modal-confirm&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/h4[@class=&quot;modal-title w-100&quot;]</value>
+      <webElementGuid>06cb7257-5368-4224-9d36-5bcfebbab1ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cartModal']/div/div/div/h4</value>
+      <webElementGuid>f52252c9-3c0f-43a4-a931-9b46685bd494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::h4[1]</value>
+      <webElementGuid>f81c3b83-47c2-42e1-aa13-96274d05b0ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(5)'])[3]/following::h4[1]</value>
+      <webElementGuid>6ef9235d-51eb-4667-b4c0-98166a67c04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cart'])[1]/preceding::h4[1]</value>
+      <webElementGuid>184401b2-79d0-47fb-8f9d-fda8da582fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue Shopping'])[1]/preceding::h4[1]</value>
+      <webElementGuid>fd974f9e-1576-46ad-8d48-d64c93e24dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Added!']/parent::*</value>
+      <webElementGuid>515c40e6-9e95-4c76-a068-6896936b55dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h4</value>
+      <webElementGuid>694426f6-d341-4f0e-9746-473f98f58f5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Added!' or . = 'Added!')]</value>
+      <webElementGuid>0a8a2cab-1351-405e-b4f3-01dc63ff5fcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

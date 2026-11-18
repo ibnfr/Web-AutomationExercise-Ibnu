@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG001-Login_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fd7e504e-cf22-449f-a9e9-b7acc6d190cb</testCaseGuid>
+</TestCaseEntity>
